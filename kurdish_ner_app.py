@@ -1,9 +1,4 @@
 import streamlit as st
-
-# This should be the first Streamlit command
-st.set_page_config(layout="wide")
-
-import streamlit as st
 import joblib
 import nltk
 from nltk.tokenize import word_tokenize
