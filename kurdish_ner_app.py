@@ -2,6 +2,7 @@ import streamlit as st
 import joblib
 import nltk
 from nltk.tokenize import word_tokenize
+import sklearn_crfsuite
 
 # Download necessary NLTK data
 nltk.download('punkt', quiet=True)
