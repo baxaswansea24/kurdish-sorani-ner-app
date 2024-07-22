@@ -2,3 +2,4 @@ streamlit
 joblib
 nltk
 scikit-learn
+sklearn-crfsuite
